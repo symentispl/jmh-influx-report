@@ -41,7 +41,7 @@
         </repository>
          <repository>
             <id>mule-releases</id>
-            <url>http://repository.mulesoft.org/nexus/content/repositories/releases/</url>
+            <url>https://repository.mulesoft.org/releases/</url>
         </repository>
 
     </repositories>
